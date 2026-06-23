@@ -1,0 +1,8 @@
+| Segment | Revenue Share | Profit Share | Read |
+| Automotive | 40% | 33% | scale engine, margin diluted |
+| Financial Services | 7% | 24% | small revenue, outsized profit |
+| HEMCE | 40% | 35% | revenue-profit near-parity |
+| Agribusiness | 10% | 3% | commodity drag on returns |
+| Others (Infra, IT, Property) | 3% | 5% | small but punches above weight |
+
+What the map shows: The single most important divergence is in Financial Services: a segment generating just 7% of group revenue delivers 24% of net income — making it by far the most capital-efficient business in the portfolio. Automotive and HEMCE together account for 80% of revenue but only 68% of profit, confirming they are volume engines with structurally thinner margins. Agribusiness tells the inverse story — 10% of revenue collapses to just 3% of profit, exposing it as the group's clearest value-diluter.
