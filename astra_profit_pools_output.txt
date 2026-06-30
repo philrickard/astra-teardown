@@ -1,0 +1,19 @@
+============================================================
+SECTION 3 — PROFIT POOLS & DEPENDENCIES
+============================================================
+# Section 3: Profit Pools & Dependencies
+---
+**HEMCE — 35% of group profit**
+- *Depends on:* Coal price realizations (United Tractors' coal mining division, where volume grew 11% to 13.1 million tonnes yet profit still fell 5%, signalling that price, not volume, drove the deterioration) and demand for Komatsu construction machinery, where unit sales collapsed 16% to 4,420 units in 2024.
+- *Fragility read:* The coal dependency is concentrated and commodity-cyclical — price is set by seaborne markets entirely outside Astra's control — and the 16% machinery sales drop confirms that heavy-equipment demand is simultaneously softening, meaning both of HEMCE's core earnings drivers moved against the segment in the same year; gold and nascent nickel operations provide partial offset but are not yet large enough to materially buffer a sustained coal-price downturn.
+---
+**Automotive — 33% of group profit**
+- *Depends on:* Indonesian consumer purchasing power as expressed through new vehicle sales volumes — the 4-wheel wholesale market fell 14% to 866k units in 2024, directly driving the 2% decline in automotive net income — mitigated meaningfully by the 2-wheel market, where Astra Honda Motor held 78% share across 4.9 million units in a market that grew 2%.
+- *Fragility read:* This is a consumer-demand cyclicality risk, not a commodity risk — profit moves with Indonesian household income and credit confidence — and while the 56% car market share and 78% motorcycle share provide structural volume floors, concentration in a single national consumer market means there is no geographic escape valve when domestic demand weakens.
+---
+**Financial Services — 24% of group profit**
+- *Depends on:* Growth and credit quality of the consumer loan portfolio — the 6% rise in net income to Rp8.4 trillion was explicitly attributed to larger loan portfolios and relatively stable loss ratios, with strong growth in multipurpose financing and new vehicle financing market share gains.
+- *Fragility read:* The Rp60.2 trillion net debt sitting inside the financial services subsidiaries (up from Rp52.2 trillion) is the business model functioning as designed — funded lending — not inherently a structural fragility; the genuine dependency is on loss-ratio stability, which is itself linked to Indonesian consumer income and employment conditions, making this segment a second-order exposure to the same consumer-demand cycle that drives automotive, rather than an independent risk.
+---
+**The dependency picture:**
+Astra's three largest profit pools are more correlated than the conglomerate framing suggests. HEMCE's profitability is hostage to commodity cycles (principally coal prices), while Automotive and Financial Services are both, at their core, leveraged to Indonesian consumer purchasing power and credit conditions — a car-market downturn simultaneously pressures automotive unit economics and increases the credit stress that Financial Services must absorb on its vehicle-financing book. The one genuine diversifier is the commodity exposure in HEMCE, but it cuts both ways: in 2024 it was the drag, not the buffer. Agribusiness (CPO prices, 3% of profit) adds a third commodity variable but at too small a scale to meaningfully de-correlate the portfolio. The honest read is that Astra is structurally a two-risk group — Indonesian consumer demand and extractive-commodity prices — dressed in the language of diversification.
