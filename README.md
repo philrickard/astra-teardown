@@ -126,8 +126,8 @@ private or non-public information is used anywhere in this project.
 
 ## About
 
-Built by **Philip Rickard** — third-year Honors Finance (BMOS) at Western
-University, Class of 2027, currently in Capital Markets Finance at OMERS. I grew
+Built by **Philip Rickard** — incoming Ivey HBA1 at Western University
+(Class of 2028), currently in Capital Markets Finance at OMERS. I grew
 up partly in Jakarta and speak Bahasa Indonesia, which is why Astra and the
 Indonesian conglomerate landscape are a natural place for me to do this kind of
 work — and part of why I think the intersection of AI tooling and regional
