@@ -136,7 +136,7 @@ business knowledge is underexplored.
 I went from not knowing what an API was to building this pipeline. That was the
 point: not to show I already knew how to do this, but to show I could learn to.
 
-- **Email:** philrickard88@gmail.com · prickard@uwo.ca
+- **Email:** philrickard88@gmail.com · prickard.hba2028@ivey.ca
 - **LinkedIn:** [philip-rickard](https://www.linkedin.com/in/philip-rickard)
 
 *This is v1, focused on Astra. A natural v1.5 — ingesting Bahasa-language
